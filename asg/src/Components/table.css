@@ -1,0 +1,31 @@
+select,input{
+    width: 120px;
+    margin: 0.7%;
+}
+.operator{
+    width: 50px;
+    /* margin-top: 8px; */
+    padding-top: 4px;
+    /* background-color: blue; */
+}
+.filterbox{
+    display: flex;
+    margin: 1%;
+}
+.filterbutton{
+    /* margin-top: 4%; */
+    cursor: pointer;
+    margin: 1%;
+}
+
+.filtersection{
+    margin: 2% 0;
+    border: 2px solid gray;
+}
+
+.err{
+    text-align: center;
+    font-size: 240%;
+    color: gray;
+    margin: 3%;
+}
